@@ -10,7 +10,7 @@ KNN Algorithm
 
 2. Calculate the distance of unknown case from all the cases(Euclidian, Manhattan, Minkowski or Weighted)
 
-3. Select the K-observations in the training data that are nearest to the unknown data point 
+3. Select the K-observations in the training data that are nearest to the unknown data point.
 
 4. Predict the response of the unknown data point using the most popular response value from the K-Nearest Neighbors
 
